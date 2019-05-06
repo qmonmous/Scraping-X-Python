@@ -1,10 +1,8 @@
 # Scraping-X-Python
 
-![](img/scraping.jpg)
-
 *Ce répertoire vise à introduire à la collecte de données web (Web Mining).*
 
----
+![](img/scraping.jpg)
 
 ## Introduction au Web Mining
 
@@ -32,4 +30,4 @@ Pour commencer cette introduction au scraping, assurez-vous d'avoir installer le
 - `pip install requests`
 - `pip install beautifulsoup4`
 
-Maintenant, rendez-vous dans [ce notebook](Introduction%20au%20Scraping.ipynb) pour découvrir le scraping !
+Maintenant, rendez-vous sur [ce notebook](Introduction%20au%20Scraping.ipynb) pour découvrir le scraping !
