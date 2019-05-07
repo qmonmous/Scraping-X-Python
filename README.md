@@ -1,8 +1,8 @@
-# Scraping-X-Python
+# Web Mining *X* Python
 
 *Ce répertoire vise à introduire à la collecte de données web (Web Mining).*
 
-![](img/scraping.jpg)
+![](img/webmining.png)
 
 ## Introduction au Web Mining
 
@@ -24,6 +24,8 @@ Pour récolter l'ensemble des données qui nous intéressent, il existe une solu
 
 ## Le Scraping
 
+![](img/scraping.png)
+
 *To scrape*, ou gratter en français, c'est l’art d’extraire des données directement depuis leur représentation visuelle. Lorsqu'on crée une page web, on va structurer son contenu avec du HTML. Du templating va permettre de formater et d'insérer des données dynamiques dans ces structures. Ainsi, dans le cas des pages web, on va scraper le HTML lui-même pour récupérer précisément les données souhaitées. D'une certaine manière, on procède à une rétro-ingénierie du processus de templating.
 
 Pour commencer cette introduction au scraping, assurez-vous d'avoir installer les deux dépendances suivantes :
@@ -31,3 +33,7 @@ Pour commencer cette introduction au scraping, assurez-vous d'avoir installer le
 - `pip install beautifulsoup4`
 
 Maintenant, rendez-vous sur [ce notebook](Introduction%20au%20Scraping.ipynb) pour découvrir le scraping !
+
+## Le Crawling
+
+![](img/crawling.png)
